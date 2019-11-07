@@ -10,7 +10,7 @@ demo/目录下的Android项目是一个带内存泄露代码的工程
 
 
 # GUI程序使用
-为了方便使用，封装了一个GUI程序，方便启动malloc debug，自动导出数据等(tools目录下)
+为了方便使用，封装了一个GUI程序，方便启动malloc debug，自动导出数据等([tools目录下](./tools))
 
 ## 1. 项目结构说明
 `git clone`该项目的所有文件到本地，比如放到`malloc_debug`目录下，使用terminal cd进入`tools`目录，目录下有所有需要使用到的工具和脚本。
